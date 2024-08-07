@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color:red;
+}
+
+h1{
+    background-color: aqua;
+    width: fit-content;
+}
+
+ul{
+    background-color: yellow;
+    height: fit-content;
+    width: fit-content;
+}
+
+h2{
+    background-color: yellowgreen;
+    width: fit-content;
+    font-style: italic;
+    
+}
+
+h3{
+    background-color: aquamarine;
+    width: fit-content;
+}
+
+p{
+    background-color: bisque;
+    width: fit-content;
+}
+
+ol{
+    background-color: coral;
+    width: fit-content;
+}
+
+li{
+    color:darkslategrey;
+}
+
+ol li{
+    color:darkblue;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+}
